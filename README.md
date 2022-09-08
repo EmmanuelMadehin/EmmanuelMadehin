@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmanuelMadehin
-- 👀 I’m interested in Devops engineering
-- 🌱 I’m currently learning Devops and automation
+- 👀 I’m interested in devops engineering
+- 🌱 I’m currently learning devops and automation
 - 💞️ I’m looking to collaborate on open source projects to gain experience and help each other achieve something
 - 📫 How to reach me - email tobimadehin@gmail.com
 
